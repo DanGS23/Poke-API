@@ -5,7 +5,6 @@
       <img src="./assets/img/pokemon-logo-pokemon-icon-transparent-free-png.webp" alt="TITLE" width="150px">
     </div>
 
-    <SearchBar @search="searchPokemon" />
 
     <div class="flex justify-center">
       <button
